@@ -66,7 +66,11 @@ Este proyecto busca:
 
 ## 👥 Nuestro Equipo
 
-Somos una comunidad interdisciplinaria de ingenieros, docentes, diseñadores y científicos de datos comprometidos con la construcción del futuro educativo a través de la tecnología.
+Somos una comunidad interdisciplinaria formada por **ingenieros**, **docentes**, **diseñadores** y **científicos de datos**, unidos por la pasión de construir el futuro educativo a través de la tecnología.  
+
+💡 Creemos en la **colaboración**, la **innovación** y el **aprendizaje continuo** como pilares fundamentales para transformar ideas en realidades.  
+
+🚀 **Estamos abiertos a nuevos integrantes** que compartan nuestra visión y quieran aportar su talento para crear soluciones con impacto positivo.  
 
 ---
 
