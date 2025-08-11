@@ -76,7 +76,16 @@ Somos una comunidad interdisciplinaria formada por **ingenieros**, **docentes**,
 
 ## 🤝 ¿Cómo contribuir?
 
-¿Te interesa el proyecto? ¡Súmate!
+¿Te interesa el proyecto? **¡Súmate a nuestra comunidad!**  
+Aquí podrás colaborar, proponer ideas, aprender junto a otros profesionales y participar en el desarrollo de nuestras iniciativas.  
+
+<p align="center">
+  <a href="https://discord.gg/kdUDTkYTAv" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Únete a nuestro Discord" />
+  </a>
+</p>
+
+💬 **Únete a nuestro servidor de Discord** y empieza a formar parte de una comunidad activa y colaborativa.
 
 
 ---
