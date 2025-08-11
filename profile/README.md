@@ -92,7 +92,21 @@ Aquí podrás colaborar, proponer ideas, aprender junto a otros profesionales y 
 
 ## 🌐 Contacto
 
-proximamente agregare los metodos para contactarme
+💌 **¿Quieres contactarme?**  
+Aquí tienes mis perfiles personales para que podamos conectar, compartir ideas o colaborar en proyectos relacionados con tecnología y educación:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jamkeatesis-shmith-sarmiento-mojica-a052542b7/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/@JamSwiftDev" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://github.com/JamSwiftDev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
 
 ---
 
